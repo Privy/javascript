@@ -1,10 +1,15 @@
-# Airbnb JavaScript Style Guide() {
+# Privy JavaScript Style Guide() {
 
-*A mostly reasonable approach to JavaScript*
+This is Privy's Ruby Style Guide. It is a fork of [Airbnb's guide](https://github.com/airbnb/javascript).
 
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb.svg)](https://www.npmjs.com/package/eslint-config-airbnb)
-[![Downloads](https://img.shields.io/npm/dm/eslint-config-airbnb-base.svg)](https://www.npmjs.com/package/eslint-config-airbnb-base)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+> *A mostly reasonable approach to JavaScript*
+
+To merge in upstream changes from https://github.com/airbnb/javascript, run the following commands after cloning.
+```
+git remote add upstream git@github.com:airbnb/javascript.git
+git fetch upstream master
+git merge upstream/master
+```
 
 Other Style Guides
 
