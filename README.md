@@ -1,3 +1,5 @@
+Archived: This guide is deprecated in favor of internal prettier config.
+
 # Privy JavaScript Style Guide() {
 
 This is Privy's JavaScript Style Guide. It is a fork of [Airbnb's guide](https://github.com/airbnb/javascript).
